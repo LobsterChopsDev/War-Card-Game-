@@ -1,0 +1,14 @@
+TODOLIST
+[D] = Done
+[*] = Not Done
+[O] = Not Done (Optional)
+[+] = Not Done (Item with sub-items)
+  [-] = Not Done (Sub-Item)
+
+** use compareTo for value Enums
+
+Design Document Tasks:
+- Complete Project Description
+
+Programming Tasks to implements:
+
